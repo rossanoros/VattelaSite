@@ -98,7 +98,7 @@ h4 small {
 	opacity:1;
 }
 section {
-	padding:120px 0 40px 0;
+    /*padding:120px 0 40px 0;*/
 }
 
 section.gray {
@@ -1152,7 +1152,7 @@ a.socialIcon:hover, .socialHoverClass {
 		font-size: 20px;
 	}
 	.section {
-		padding:80px 0 40px 0;
+		/*padding:80px 0 40px 0;*/
 	}
 	section#intro{
 		padding:0;
