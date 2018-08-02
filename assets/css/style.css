@@ -173,6 +173,7 @@ section.dark .heading h3 {
 /* sub heading */
 
 .sub-heading {
+    text-align: justify;
 	margin:20px 0 20px 0;
 }
 
