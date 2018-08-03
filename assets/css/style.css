@@ -29,7 +29,7 @@
 }
 
 body {
-    text-rendering: optimizeLegibility; 
+    text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased; 
 	color:#777;
 	background: #fff;
@@ -1087,7 +1087,7 @@ a.socialIcon:hover, .socialHoverClass {
 @media (min-width: 768px) and (max-width: 979px) {
 
 	.default {
-	position: fixed;
+	/*position: fixed;*/
 	background: #000000;
 	top:0;
 	left: 0;
