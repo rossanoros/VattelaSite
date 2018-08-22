@@ -72,3 +72,8 @@ $(window).scroll(function(){
 	$('.fade').stop(true,true).fadeTo("slow", 0.33);
 	}
 });
+
+$(function(){
+      $("#header_content").load("header.html");
+      $("#footer_content").load("footer.html");
+    });
